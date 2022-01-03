@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tick-tack-toe-28398": {
+      "hosting": {
+        "tick-tack-toe": [
+          "tick-tack-toe-28398"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tick-tack-toe-28398"
+  }
+}
